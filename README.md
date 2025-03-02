@@ -51,7 +51,7 @@ The dataset includes **Amtrak train performance data**, consisting of:
 
 ## **Insights & Findings**  
 
-📌 **Example insights:**  
+📌 **Insights:**  
 - **Route X** has the **highest average delays (~15 mins)**, mostly due to weather conditions.  
 - **Peak travel hours (6-9 AM & 4-7 PM)** have more delays due to congestion.  
 - **Implementing buffer times** in scheduling can **reduce delay occurrences by 12%**.  
